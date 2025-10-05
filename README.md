@@ -15,6 +15,5 @@ iOS MVVM Demo App - Fetches posts from JSONPlaceholder API using Swift, SwiftUI,
   ## Assumptions & Improvements
 - Currently using JSONPlaceholder API for demo posts.
 - With more time:
-- Add environment-based URLs (dev, staging, production)
 - Add caching & offline support
 - Implement unit tests for ViewModel and Service
