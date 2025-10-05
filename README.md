@@ -6,7 +6,7 @@ iOS MVVM Demo App - Fetches posts from JSONPlaceholder API using Swift, SwiftUI,
 - Xcode 13.4+
 - 
 ## Architecture
-- **MVVM (Model-View-ViewModel):
+- MVVM (Model-View-ViewModel):
 - **Model:** Data structures (e.g., Post)
 - **View:** SwiftUI views
 - **ViewModel:** Handles fetching and transforming data
